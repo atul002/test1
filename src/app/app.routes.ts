@@ -3,6 +3,7 @@ import { Child } from './child/child';
 import { Home } from './home/home';
 
 export const routes: Routes = [    
-    {path: '', component: Home},
+    { path: '', component: Home},
+    { path: 'home', component: Home},
     { path: 'child', component: Child }
 ];
