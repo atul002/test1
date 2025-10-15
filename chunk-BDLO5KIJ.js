@@ -1,0 +1,1 @@
+import{Ea as n,Fa as m,Ga as i,pa as t}from"./chunk-4HVWNSX6.js";var s=class o{ngOnInit(){console.log("home component loaded")}static \u0275fac=function(e){return new(e||o)};static \u0275cmp=t({type:o,selectors:[["app-home"]],decls:2,vars:0,template:function(e,p){e&1&&(n(0,"p"),i(1,"home works!"),m())},encapsulation:2})};export{s as Home};

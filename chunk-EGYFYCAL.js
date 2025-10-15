@@ -1,0 +1,1 @@
+import{Ea as l,Fa as n,Ga as o,pa as i}from"./chunk-4HVWNSX6.js";var a=class t{ngOnInit(){console.log("child detail component loaded")}static \u0275fac=function(e){return new(e||t)};static \u0275cmp=i({type:t,selectors:[["app-child-detail"]],decls:2,vars:0,template:function(e,c){e&1&&(l(0,"p"),o(1,"child-detail works!"),n())},encapsulation:2})};export{a as ChildDetail};
